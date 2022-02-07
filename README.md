@@ -1,3 +1,6 @@
+Calculation-general-average-
+Calculation-general-average-
+
 #include<stdio.h>
   int main (){
   	float nulc[4],nust[4],moy,sommeLc=0,nupo,somme=0;;
